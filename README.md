@@ -16,11 +16,11 @@ Here are a few projects I've worked on:
 
 1. **TO-DO List**: Brief description of the project.
    - Technologies Used: Angular, HTML, CSS, etc.
-   - [https://github.com/ahsanshaikh071297/TO-DO-List.git](#) | [Live Demo](#) 
+   - [https://github.com/ahsanshaikh071297/TO-DO-List](#) | [Live Demo](#) 
 
 2. **Weather Application**: Brief description of the project.
    - Technologies Used: Angular, HTML, CSS, etc.
-   - [https://github.com/ahsanshaikh071297/Weather--Application.git](#) | [Live Demo](#)
+   - [https://github.com/ahsanshaikh071297/Weather--Application](#) | [Live Demo](#)
 
 3. **Current News Application**: Brief description of the project.
    - Technologies Used: Angular, HTML, CSS, etc.
