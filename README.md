@@ -44,7 +44,7 @@ I'm Shaikh Ahsan, a passionate Frontend Developer specializing in Angular, HTML,
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/shaikh-ahsan071297"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shaikh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shaikh-ahsan071297/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shaikh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:ahsanshaikh071297@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahsanshaikh071297@outlook.com-blue?style=flat-square&logo=outlook"></a>
 </p>
 
