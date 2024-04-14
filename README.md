@@ -2,51 +2,31 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <br> <br> <img src="https://github.com/ahsanshaikh071297/ahsanshaikh071297/blob/main/greetings.gif" width="500"></h2>
 </div>
 
-## About Me
+# 💫 About Me:
 I'm Shaikh Ahsan, a passionate Frontend Developer specializing in Angular, HTML, and CSS. With 2.7 years of experience in crafting delightful user experiences, I strive to create efficient and aesthetically pleasing web applications.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=ff0000)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![OracleSQL](https://img.shields.io/badge/-OracleSQL-333333?style=flat&logo=oracle)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm&logoColor=ff0000)
-- 🖥 &nbsp;
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/he_trouble_maker_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-ahsan071297) 
 
-<br/>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ahsanshaikh071297&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ahsanshaikh071297&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanshaikh071297&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills
-- **Angular**: Proficient in building scalable web applications using Angular framework.
-- **HTML/CSS**: Expertise in crafting semantic HTML and styling with CSS, ensuring elegant and responsive designs.
-- **JavaScript/TypeScript**: Strong understanding of JavaScript and TypeScript, essential for frontend development.
-- **UI/UX Design**: Knowledgeable in user interface design principles to create intuitive and visually appealing interfaces.
-- **Responsive Design**: Experienced in creating responsive layouts that adapt seamlessly to various screen sizes and devices.
-- **Version Control**: Proficient in Git for version control, facilitating collaborative development workflows.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahsanshaikh071297&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shaikh-ahsan071297/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahsan%20Shaikh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:ahsanshaikh071297@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahsanshaikh071297@outlook.com-blue?style=flat-square&logo=outlook"></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Ahsanshaikh071297&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Feel free to reach out to discuss collaboration opportunities or just to say hi!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
